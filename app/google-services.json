@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "70470819059",
+    "project_id": "actn-iot-system",
+    "storage_bucket": "actn-iot-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70470819059:android:632ac864859bd25414ab86",
+        "android_client_info": {
+          "package_name": "jp.co.actn.ais"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70470819059-t3atm5coeof04pfur9q3o7m4hcukcu75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAputSQaIrFij72xdTGgQ0UpeKUWovuLfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70470819059-t3atm5coeof04pfur9q3o7m4hcukcu75.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70470819059-l4m0nu4dkkcvvse7s0cd4pl3am9t1di6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.co.actn.ACTN-Iot-System"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
